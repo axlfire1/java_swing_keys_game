@@ -5,4 +5,7 @@
 To run the code you just have to type:
 ```java Teclasgame```
 
+
+![alt text](https://github.com/axlfire1/java_swing_keys_game/blob/master/game_example.png?raw=true)
+
 ###### contributions are very welcome
